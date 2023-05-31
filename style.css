@@ -55,6 +55,9 @@
 
 #footer a {
   text-decoration: none;
+}
+
+#footer a + a {
   margin-left: 42px;
 }
 
